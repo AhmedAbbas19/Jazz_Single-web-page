@@ -1,6 +1,6 @@
 # FeedId Template
 
-This is a single web page template. (See the screenshot ;)
+This is a single web page template. (See the screenshot)
 
 ## Built With
 
@@ -11,11 +11,11 @@ This is a single web page template. (See the screenshot ;)
 
 ## Used Libraries
 
-* Wow
+* wow.js
 * nicescroll
 * font-awesome
-* hover
-* animate
+* hover.css
+* animate.css
 
 
 ## Authors
