@@ -1,6 +1,6 @@
 # FeedId Template
 
-This is a single web page template.
+This is a single web page template. (See the screenshot ;)
 
 ## Built With
 
