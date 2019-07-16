@@ -1,4 +1,4 @@
-# FeedId Template
+# FeedIt Template
 
 This is a single web page template. (See the screenshot)
 
